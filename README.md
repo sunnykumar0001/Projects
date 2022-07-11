@@ -1,35 +1,37 @@
 # Projects
-This Directory contains all my currently working projects. 
+This Directory contains all my currently and past projects - 
 
 
-1. Tindog projects
-https://sunnykumar0001.github.io/Tindog-Project/
+## 1. Tindog projects
+Link - https://sunnykumar0001.github.io/Tindog-Project/
 
-https://github.com/sunnykumar0001/Tindog-Project
-
-
-2. Basic Portfolio
-https://sunnykumar0001.github.io/Sunny-Personal-Site/
-
-https://github.com/sunnykumar0001/Sunny-Personal-Site
+Code - https://github.com/sunnykumar0001/Tindog-Project
 
 
-3. Basic CV 
-https://sunnykumar0001.github.io/CV/
 
-https://github.com/sunnykumar0001/CV
+## 2. Basic Portfolio
+Link - https://sunnykumar0001.github.io/Sunny-Personal-Site/
 
-
-4. Subscribe to News letter
-https://guarded-brushlands-79549.herokuapp.com/
+Code - https://github.com/sunnykumar0001/Sunny-Personal-Site
 
 
-5. Drum Kit
-https://sunnykumar0001.github.io/Drum-kit-project/
 
-https://github.com/sunnykumar0001/Drum-kit-project
+## 3. Basic CV 
+Link - https://sunnykumar0001.github.io/CV/
+
+Code - https://github.com/sunnykumar0001/CV
 
 
-6. The Red Ball - Basic Mobile Game
-https://play.google.com/store/apps/details?id=com.Sunny.TheRedBall
+## 4. Subscribe to News letter
+Link - https://guarded-brushlands-79549.herokuapp.com/
+
+
+## 5. Drum Kit
+Link - https://sunnykumar0001.github.io/Drum-kit-project/
+
+Code - https://github.com/sunnykumar0001/Drum-kit-project
+
+
+## 6. The Red Ball - Basic Mobile Game
+Link - https://play.google.com/store/apps/details?id=com.Sunny.TheRedBall
 
